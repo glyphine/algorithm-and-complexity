@@ -1,3 +1,4 @@
+#This is the answer of the set A.
 def dynamic_programming(arr):
     n = len(arr)
     if n == 0:
@@ -29,3 +30,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#Coded by: Gwyn Ann S. Lobaton

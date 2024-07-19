@@ -1,3 +1,5 @@
+# This is the problem set B answer. 
+
 class spanningtreeset:
 
     def __init__(self, vertices):
@@ -62,4 +64,5 @@ print("Test Case 3 - Edges in the Minimum Spanning Tree:")
 for edge in mst:
     print(edge)
 
-
+#Coded by: Gwyn Ann S. Lobaton 
+ 
